@@ -1,0 +1,14 @@
+{
+  "name": "kubernetes-config-templates",
+  "version": "1.0.0",
+  "description": "Kubernetes and Helm chart templates for scalable microservice deployments",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --coverage",
+    "lint": "eslint src/"
+  },
+  "keywords": [],
+  "author": "superdev1211",
+  "license": "MIT"
+}
